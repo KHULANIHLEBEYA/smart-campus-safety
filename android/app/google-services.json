@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731521136310",
+    "project_id": "smart-campus-safety-22df6",
+    "storage_bucket": "smart-campus-safety-22df6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731521136310:android:cf268234005b79dac95817",
+        "android_client_info": {
+          "package_name": "com.khulani.smart_campus_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fkkSLyKXNh-1RRfijveqW7_eSrAFhlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

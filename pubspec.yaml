@@ -1,0 +1,35 @@
+name: smart_campus_safety
+description: "A new Flutter project."
+publish_to: 'none'  # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.8
+
+  # Add these for your Smart Campus Safety app:
+  geolocator: ^10.1.0
+  image_picker: ^1.0.5
+  permission_handler: ^11.0.1
+  intl: ^0.18.1
+  provider: ^6.1.1
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  cloud_firestore: ^6.8.0
+  url_launcher: ^6.3.2
+  firebase_storage: ^13.6.0
+  record: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
